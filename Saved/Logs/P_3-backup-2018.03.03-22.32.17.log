@@ -1,0 +1,1481 @@
+﻿Log file open, 02/25/18 00:42:31
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: P_3
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2046273695) SRandInit(-2046273695).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.193078
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: E:/Version d'UE/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.24-23.42.33:220][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-23.42.33:220][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.24-23.42.33:234][  0]LogInit: Computer: DESKTOP-1PTIM52
+[2018.02.24-23.42.33:234][  0]LogInit: User: Alexa
+[2018.02.24-23.42.33:234][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.24-23.42.33:234][  0]LogInit: High frequency timer resolution =3.906254 MHz
+[2018.02.24-23.42.33:234][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.24-23.42.33:234][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.24-23.42.33:234][  0]LogMemory: Process Physical Memory: 272.14 MB used, 272.14 MB peak
+[2018.02.24-23.42.33:234][  0]LogMemory: Process Virtual Memory: 263.75 MB used, 263.75 MB peak
+[2018.02.24-23.42.33:234][  0]LogMemory: Physical Memory: 5839.61 MB used,  10490.39 MB free, 16330.01 MB total
+[2018.02.24-23.42.33:234][  0]LogMemory: Virtual Memory: 671.62 MB used,  10490.39 MB free, 134217728.00 MB total
+[2018.02.24-23.42.33:425][  0]LogInit: Using OS detected language (fr-FR).
+[2018.02.24-23.42.33:425][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.02.24-23.42.33:428][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the language.
+[2018.02.24-23.42.33:429][  0]LogTextLocalizationManager: No localization for 'fr-FR' exists, so 'en' will be used for the locale.
+[2018.02.24-23.42.33:939][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.24-23.42.34:189][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.24-23.42.34:232][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 780 Ti' (Feature Level 11_0)
+[2018.02.24-23.42.34:232][  0]LogD3D11RHI:       3029/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.24-23.42.34:235][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.24-23.42.34:235][  0]LogD3D11RHI:       0/0/8165 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.24-23.42.34:235][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.24-23.42.34:243][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.24-23.42.34:243][  0]LogD3D11RHI:     GPU DeviceId: 0x100a (for the marketing name, search the web for "GPU Device Id")
+[2018.02.24-23.42.34:243][  0]LogWindows: EnumDisplayDevices:
+[2018.02.24-23.42.34:244][  0]LogWindows:    0. 'NVIDIA GeForce GTX 780 Ti' (P:1 D:1)
+[2018.02.24-23.42.34:244][  0]LogWindows:    1. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.02.24-23.42.34:244][  0]LogWindows:    2. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.02.24-23.42.34:244][  0]LogWindows:    3. 'NVIDIA GeForce GTX 780 Ti' (P:0 D:0)
+[2018.02.24-23.42.34:245][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.24-23.42.34:245][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 780 Ti
+[2018.02.24-23.42.34:245][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.24-23.42.34:245][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.24-23.42.34:245][  0]LogRHI: Texture pool is 2120 MB (70% of 3029 MB)
+[2018.02.24-23.42.34:278][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.24-23.42.34:299][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.24-23.42.34:342][  0]LogShaderCompilers: Guid format shader working directory is 2 characters bigger than the processId version (C:/Users/Alexa/Documents/Unreal Projects/P_3/Intermediate/Shaders/WorkingDirectory/8248/).
+[2018.02.24-23.42.34:342][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Alexa/AppData/Local/Temp/UnrealShaderWorkingDir/BB32A3D543B30FF81BC597B22D4822FA/'.
+[2018.02.24-23.42.34:342][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.24-23.42.35:500][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.24-23.42.35:550][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.24-23.42.35:595][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.24-23.42.35:640][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.24-23.42.35:691][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.24-23.42.35:743][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.24-23.42.35:789][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.24-23.42.35:836][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.24-23.42.35:880][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.24-23.42.35:926][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.24-23.42.35:976][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.24-23.42.36:028][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.24-23.42.36:072][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.24-23.42.36:122][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.24-23.42.36:215][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.24-23.42.36:215][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.24-23.42.36:263][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.24-23.42.36:299][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.24-23.42.36:378][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.24-23.42.36:401][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.24-23.42.36:447][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.24-23.42.36:494][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.24-23.42.36:549][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.24-23.42.36:596][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.24-23.42.36:597][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.24-23.42.37:032][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.24-23.42.37:133][  0]LogDerivedDataCache: Loaded boot cache 0.10s 78MB C:/Users/Alexa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-23.42.37:133][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Alexa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.24-23.42.37:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/Alexa/Documents/Unreal Projects/P_3/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.24-23.42.37:134][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.24-23.42.37:134][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/Alexa/Documents/Unreal Projects/P_3/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.24-23.42.37:134][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.24-23.42.37:152][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.24-23.42.37:164][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Alexa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.24-23.42.37:175][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.24-23.42.37:176][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.24-23.42.37:177][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-23.42.37:177][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.24-23.42.37:600][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.24-23.42.37:910][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.24-23.42.37:947][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.24-23.42.37:947][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.24-23.42.37:947][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.24-23.42.37:947][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.24-23.42.37:947][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.24-23.42.37:970][  0]LogNetVersion: P_3 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 426316062)
+[2018.02.24-23.42.38:130][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2018.02.24-23.42.38:706][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.053315 seconds
+[2018.02.24-23.42.38:721][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.24-23.42.38:721][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.24-23.42.38:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.24-23.42.38:777][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.24-23.42.41:777][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.24-23.42.41:817][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.24-23.42.42:465][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.24-23.42.42:925][  0]SourceControl: Source control is disabled
+[2018.02.24-23.42.42:925][  0]SourceControl: Source control is disabled
+[2018.02.24-23.42.42:976][  0]SourceControl: Source control is disabled
+[2018.02.24-23.42.43:024][  0]SourceControl: Source control is disabled
+[2018.02.24-23.42.43:801][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.24-23.42.44:051][  0]LogOcInput: OculusInput pre-init called
+[2018.02.24-23.42.44:335][  0]LogEngine: Initializing Engine...
+[2018.02.24-23.42.44:337][  0]LogHMD: Failed to initialize OpenVR with code 101
+[2018.02.24-23.42.44:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.24-23.42.44:625][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.24-23.42.44:753][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.24-23.42.44:767][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.42.44:788][  0]LogInit: FAudioDevice initialized.
+[2018.02.24-23.42.44:916][  0]LogDerivedDataCache: Saved boot cache 0.13s 78MB C:/Users/Alexa/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.24-23.42.44:935][  0]LogInit: Texture streaming: Enabled
+[2018.02.24-23.42.45:020][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.24-23.42.45:148][  0]LogInit: Transaction tracking system initialized
+[2018.02.24-23.42.45:420][  0]BlueprintLog: New page: Editor Load
+[2018.02.24-23.42.46:218][  0]LocalizationService: Localization service is disabled
+[2018.02.24-23.42.46:906][  0]LogConsoleResponse: Display: 
+[2018.02.24-23.42.47:085][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.24-23.42.47:085][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.24-23.42.47:085][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.24-23.42.48:134][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/' took 0.01s
+[2018.02.24-23.42.48:186][  0]SourceControl: Source control is disabled
+[2018.02.24-23.42.48:186][  0]Cmd: MAP LOAD FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.24-23.42.48:186][  0]LightingResults: New page: Lighting Build
+[2018.02.24-23.42.48:225][  0]MapCheck: New page: Map Check
+[2018.02.24-23.42.48:226][  0]LightingResults: New page: Lighting Build
+[2018.02.24-23.42.48:890][  0]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.42.48:904][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.24-23.42.48:928][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.24-23.42.48:982][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.226ms to complete.
+[2018.02.24-23.42.48:982][  0]LogFileHelpers: Loading map 'Test_level' took 0.796
+[2018.02.24-23.42.50:240][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.24-23.42.50:368][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.P3
+[2018.02.24-23.42.50:368][  0]LogTemp: CWD: E:\Version d'UE\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.24-23.42.50:368][  0]LogTemp: Initial Dir: E:\Version d'UE\UE_4.18
+[2018.02.24-23.42.50:368][  0]LogTemp: Env CWD: E:\Version d'UE\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.24-23.42.50:368][  0]LogTemp: BranchPath = DESKTOP-1PTIM52/E/Version d'UE/UE_4.18/Engine/Binaries --- GameBranchPath = DESKTOP-1PTIM52/E/Version d'UE/UE_4.18/Engine/Binaries
+[2018.02.24-23.42.50:368][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Alexa\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.24-23.42.50:368][  0]LogCollectionManager: Loaded 0 collections in 0.000835 seconds
+[2018.02.24-23.42.50:446][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Collections/' took 0.01s
+[2018.02.24-23.42.50:446][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Developers/Alexa/Collections/' took 0.01s
+[2018.02.24-23.42.50:446][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Collections/' took 0.01s
+[2018.02.24-23.42.50:446][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.02.24-23.42.50:455][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2018.02.24-23.42.50:516][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.24-23.42.50:556][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.24-23.42.50:602][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.24-23.42.50:688][  0]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-23.42.50:693][  0]LogSlate: Took 0.000775 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.24-23.42.50:704][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.24-23.42.50:839][  0]LogRenderer: Reallocating scene render targets to support 2152x1060 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-23.42.51:053][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.02.24-23.42.51:053][  0]LogLoad: (Engine Initialization) Total time: 20.33 seconds
+[2018.02.24-23.42.51:053][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.24-23.42.51:053][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.24-23.42.51:419][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.02.24-23.42.51:745][  1]LogAssetRegistry: Asset discovery search completed in 13.6378 seconds
+[2018.02.24-23.42.51:749][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.02.24-23.42.51:749][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
+[2018.02.24-23.43.37:462][951]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-23.43.37:788][951]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.02.24-23.43.38:504][951]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.24-23.43.38:583][951]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.24-23.43.43:815][359]LogSlate: Took 0.000348 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.24-23.44.31:048][750]LogEditorViewport: Clicking on Actor (LMB): Day_Night_Date_Cycle_C (Day_Night_Cycle)
+[2018.02.24-23.44.35:599][113]LogRenderer: Reallocating scene render targets to support 2152x1216 Format 10 NumSamples 1 (Frame:1).
+[2018.02.24-23.44.42:481][859]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.44.42:526][859]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.44.42:526][859]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.44.42:543][859]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.44.42:908][859]LogPlayLevel: PlayLevel: Blueprint regeneration took 382 ms (1 blueprints)
+[2018.02.24-23.44.42:909][859]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:44:42 AM)
+[2018.02.24-23.44.42:909][859]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.44.42:916][859]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006311s)
+[2018.02.24-23.44.42:916][859]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.44.42:916][859]LogPlayLevel: PIE: World Init took: (0.000632s)
+[2018.02.24-23.44.42:917][859]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007326s)
+[2018.02.24-23.44.42:939][859]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.44.42:951][859]LogInit: FAudioDevice initialized.
+[2018.02.24-23.44.43:043][859]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.44.43:046][859]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.44.43
+[2018.02.24-23.44.43:047][859]LogWorld: Bringing up level for play took: 0.001661
+[2018.02.24-23.44.43:083][859]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2018.02.24-23.44.43:094][859]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.018
+[2018.02.24-23.44.43:095][859]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.44.53:915][788]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.44.53:968][788]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.20:112][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.45.20:153][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.20:153][191]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.45.20:171][191]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.45.20:531][191]LogPlayLevel: PlayLevel: Blueprint regeneration took 377 ms (1 blueprints)
+[2018.02.24-23.45.20:531][191]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:45:20 AM)
+[2018.02.24-23.45.20:531][191]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.45.20:537][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006052s)
+[2018.02.24-23.45.20:538][191]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.45.20:538][191]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2018.02.24-23.45.20:538][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007325s)
+[2018.02.24-23.45.20:563][191]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.45.20:574][191]LogInit: FAudioDevice initialized.
+[2018.02.24-23.45.20:646][191]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.45.20:648][191]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.45.20
+[2018.02.24-23.45.20:648][191]LogWorld: Bringing up level for play took: 0.001117
+[2018.02.24-23.45.20:653][191]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.577
+[2018.02.24-23.45.20:654][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.31:881][251]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.31:929][251]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.39:354][  6]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.45.39:385][  6]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.39:386][  6]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.45.39:407][  6]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.45.39:772][  6]LogPlayLevel: PlayLevel: Blueprint regeneration took 386 ms (1 blueprints)
+[2018.02.24-23.45.39:772][  6]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:45:39 AM)
+[2018.02.24-23.45.39:772][  6]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.45.39:777][  6]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005178s)
+[2018.02.24-23.45.39:779][  6]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.45.39:779][  6]LogPlayLevel: PIE: World Init took: (0.001570s)
+[2018.02.24-23.45.39:780][  6]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007288s)
+[2018.02.24-23.45.39:804][  6]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.45.39:815][  6]LogInit: FAudioDevice initialized.
+[2018.02.24-23.45.39:892][  6]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.45.39:894][  6]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.45.39
+[2018.02.24-23.45.39:895][  6]LogWorld: Bringing up level for play took: 0.002555
+[2018.02.24-23.45.39:901][  6]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level -0.175
+[2018.02.24-23.45.39:902][  6]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.43:560][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.45.43:613][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.06:522][584]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.46.06:559][584]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.06:560][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.46.06:576][584]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.46.06:930][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 370 ms (1 blueprints)
+[2018.02.24-23.46.06:930][584]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:46:06 AM)
+[2018.02.24-23.46.06:930][584]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.46.06:937][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007465s)
+[2018.02.24-23.46.06:939][584]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.46.06:939][584]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2018.02.24-23.46.06:940][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.009145s)
+[2018.02.24-23.46.06:965][584]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.46.06:978][584]LogInit: FAudioDevice initialized.
+[2018.02.24-23.46.07:049][584]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.46.07:052][584]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.46.07
+[2018.02.24-23.46.07:052][584]LogWorld: Bringing up level for play took: 0.001929
+[2018.02.24-23.46.07:056][584]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.98
+[2018.02.24-23.46.07:056][584]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.17:053][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.17:105][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.48:751][506]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.46.48:792][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.48:792][506]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.46.48:809][506]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.46.49:159][506]LogPlayLevel: PlayLevel: Blueprint regeneration took 366 ms (1 blueprints)
+[2018.02.24-23.46.49:159][506]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:46:49 AM)
+[2018.02.24-23.46.49:159][506]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.46.49:166][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006529s)
+[2018.02.24-23.46.49:168][506]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.46.49:169][506]LogPlayLevel: PIE: World Init took: (0.003076s)
+[2018.02.24-23.46.49:169][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.010295s)
+[2018.02.24-23.46.49:192][506]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.46.49:205][506]LogInit: FAudioDevice initialized.
+[2018.02.24-23.46.49:276][506]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.46.49:278][506]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.46.49
+[2018.02.24-23.46.49:279][506]LogWorld: Bringing up level for play took: 0.002212
+[2018.02.24-23.46.49:285][506]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.209
+[2018.02.24-23.46.49:286][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.56:730][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.46.56:785][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.49.57:235][797]BlueprintLog: New page: Compile Day_Night_Date_Cycle
+[2018.02.24-23.49.58:829][931]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.49.58:867][931]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.49.58:867][931]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-23.49.58:867][931]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:49:58 AM)
+[2018.02.24-23.49.58:867][931]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.49.58:873][931]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005263s)
+[2018.02.24-23.49.58:874][931]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.49.58:874][931]LogPlayLevel: PIE: World Init took: (0.001169s)
+[2018.02.24-23.49.58:874][931]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.006811s)
+[2018.02.24-23.49.58:904][931]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.49.58:919][931]LogInit: FAudioDevice initialized.
+[2018.02.24-23.49.58:994][931]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.49.58:997][931]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.49.58
+[2018.02.24-23.49.58:997][931]LogWorld: Bringing up level for play took: 0.002482
+[2018.02.24-23.49.59:002][931]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.925
+[2018.02.24-23.49.59:002][931]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.06:184][585]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.06:250][585]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.18:583][867]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.50.18:604][867]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.18:604][867]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.50.18:624][867]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.50.19:004][867]LogPlayLevel: PlayLevel: Blueprint regeneration took 400 ms (1 blueprints)
+[2018.02.24-23.50.19:005][867]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:50:19 AM)
+[2018.02.24-23.50.19:005][867]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.50.19:012][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006771s)
+[2018.02.24-23.50.19:013][867]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.50.19:013][867]LogPlayLevel: PIE: World Init took: (0.001389s)
+[2018.02.24-23.50.19:014][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.008716s)
+[2018.02.24-23.50.19:035][867]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.50.19:049][867]LogInit: FAudioDevice initialized.
+[2018.02.24-23.50.19:128][867]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.50.19:130][867]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.50.19
+[2018.02.24-23.50.19:131][867]LogWorld: Bringing up level for play took: 0.001910
+[2018.02.24-23.50.19:139][867]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.063
+[2018.02.24-23.50.19:140][867]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.29:225][773]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.50.29:281][773]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.51.46:242][282]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.51.46:284][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.51.46:284][282]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.51.46:307][282]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.24-23.51.46:669][282]LogPlayLevel: PlayLevel: Blueprint regeneration took 384 ms (1 blueprints)
+[2018.02.24-23.51.46:669][282]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:51:46 AM)
+[2018.02.24-23.51.46:670][282]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.51.46:675][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005696s)
+[2018.02.24-23.51.46:676][282]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.51.46:676][282]LogPlayLevel: PIE: World Init took: (0.000607s)
+[2018.02.24-23.51.46:676][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.006648s)
+[2018.02.24-23.51.46:698][282]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.51.46:714][282]LogInit: FAudioDevice initialized.
+[2018.02.24-23.51.46:782][282]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.51.46:784][282]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.51.46
+[2018.02.24-23.51.46:785][282]LogWorld: Bringing up level for play took: 0.001636
+[2018.02.24-23.51.46:792][282]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.716
+[2018.02.24-23.51.46:792][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.03:264][831]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.03:317][831]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.14:016][964]BlueprintLog: New page: Compile Day_Night_Date_Cycle
+[2018.02.24-23.52.19:645][ 33]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.52.19:685][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.19:685][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-23.52.19:686][ 33]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:52:19 AM)
+[2018.02.24-23.52.19:686][ 33]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.52.19:693][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007288s)
+[2018.02.24-23.52.19:695][ 33]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.52.19:695][ 33]LogPlayLevel: PIE: World Init took: (0.001562s)
+[2018.02.24-23.52.19:695][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.009463s)
+[2018.02.24-23.52.19:722][ 33]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.52.19:735][ 33]LogInit: FAudioDevice initialized.
+[2018.02.24-23.52.19:808][ 33]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.52.19:810][ 33]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.52.19
+[2018.02.24-23.52.19:810][ 33]LogWorld: Bringing up level for play took: 0.001954
+[2018.02.24-23.52.19:814][ 33]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level -0.262
+[2018.02.24-23.52.19:815][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.37:730][561]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.37:795][561]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.48:724][612]BlueprintLog: New page: Compile Day_Night_Date_Cycle
+[2018.02.24-23.52.50:913][785]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.52.50:959][785]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.50:960][785]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-23.52.50:960][785]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:52:50 AM)
+[2018.02.24-23.52.50:960][785]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.52.50:966][785]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005775s)
+[2018.02.24-23.52.50:967][785]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.52.50:967][785]LogPlayLevel: PIE: World Init took: (0.001544s)
+[2018.02.24-23.52.50:968][785]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007931s)
+[2018.02.24-23.52.50:995][785]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.52.51:006][785]LogInit: FAudioDevice initialized.
+[2018.02.24-23.52.51:083][785]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.52.51:086][785]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.52.51
+[2018.02.24-23.52.51:087][785]LogWorld: Bringing up level for play took: 0.002826
+[2018.02.24-23.52.51:092][785]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.016
+[2018.02.24-23.52.51:093][785]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.55:913][157]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.52.55:974][157]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.07:116][511]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.54.07:135][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.07:135][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-23.54.07:135][511]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:54:07 AM)
+[2018.02.24-23.54.07:135][511]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.54.07:139][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004091s)
+[2018.02.24-23.54.07:140][511]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.54.07:141][511]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2018.02.24-23.54.07:141][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.005524s)
+[2018.02.24-23.54.07:170][511]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.54.07:183][511]LogInit: FAudioDevice initialized.
+[2018.02.24-23.54.07:218][511]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.54.07:220][511]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.54.07
+[2018.02.24-23.54.07:220][511]LogWorld: Bringing up level for play took: 0.001805
+[2018.02.24-23.54.07:223][511]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level -0.853
+[2018.02.24-23.54.07:224][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.10:998][862]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.12:657][ 16]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.12:992][ 50]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.13:192][ 68]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.13:357][ 84]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.13:535][100]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.13:714][118]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.13:930][139]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.14:144][159]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.14:354][180]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.14:511][195]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.14:711][215]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.14:888][232]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:078][251]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:253][267]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:432][285]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:610][302]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:770][318]LogBlueprintUserMessages: [GameMaster_C_0] Hello
+[2018.02.24-23.54.15:964][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.16:013][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.25:935][ 69]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.54.25:960][ 69]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.25:961][ 69]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.54.26:000][ 69]LogPlayLevel: [PlayLevel] Compiling GameMaster before play...
+[2018.02.24-23.54.26:398][ 69]LogPlayLevel: PlayLevel: Blueprint regeneration took 437 ms (1 blueprints)
+[2018.02.24-23.54.26:398][ 69]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:54:26 AM)
+[2018.02.24-23.54.26:399][ 69]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.54.26:404][ 69]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004942s)
+[2018.02.24-23.54.26:405][ 69]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.54.26:405][ 69]LogPlayLevel: PIE: World Init took: (0.001509s)
+[2018.02.24-23.54.26:405][ 69]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.006914s)
+[2018.02.24-23.54.26:432][ 69]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.54.26:444][ 69]LogInit: FAudioDevice initialized.
+[2018.02.24-23.54.26:529][ 69]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.54.26:533][ 69]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.54.26
+[2018.02.24-23.54.26:533][ 69]LogWorld: Bringing up level for play took: 0.002734
+[2018.02.24-23.54.26:547][ 69]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.47
+[2018.02.24-23.54.26:547][ 69]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.27:032][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.27:096][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.28:735][233]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.54.28:759][233]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.28:759][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.24-23.54.28:789][233]LogPlayLevel: [PlayLevel] Compiling GameMaster before play...
+[2018.02.24-23.54.29:372][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 612 ms (1 blueprints)
+[2018.02.24-23.54.29:372][233]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:54:29 AM)
+[2018.02.24-23.54.29:373][233]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.54.29:377][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004016s)
+[2018.02.24-23.54.29:378][233]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.54.29:378][233]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2018.02.24-23.54.29:378][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.005825s)
+[2018.02.24-23.54.29:405][233]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.54.29:419][233]LogInit: FAudioDevice initialized.
+[2018.02.24-23.54.29:506][233]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.54.29:508][233]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.54.29
+[2018.02.24-23.54.29:508][233]LogWorld: Bringing up level for play took: 0.001552
+[2018.02.24-23.54.29:520][233]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.444
+[2018.02.24-23.54.29:520][233]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.56:891][676]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.54.56:946][676]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.55.12:666][268]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.24-23.55.12:699][268]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.55.12:700][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.24-23.55.12:700][268]PIE: New page: PIE session: Test_level (Feb 25, 2018, 1:55:12 AM)
+[2018.02.24-23.55.12:700][268]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.24-23.55.12:706][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006061s)
+[2018.02.24-23.55.12:707][268]LogAIModule: Creating AISystem for world Test_level
+[2018.02.24-23.55.12:707][268]LogPlayLevel: PIE: World Init took: (0.000976s)
+[2018.02.24-23.55.12:708][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007461s)
+[2018.02.24-23.55.12:742][268]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.24-23.55.12:756][268]LogInit: FAudioDevice initialized.
+[2018.02.24-23.55.12:796][268]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.24-23.55.12:799][268]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-00.55.12
+[2018.02.24-23.55.12:799][268]LogWorld: Bringing up level for play took: 0.002248
+[2018.02.24-23.55.12:803][268]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.727
+[2018.02.24-23.55.12:804][268]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.56.29:258][767]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.56.29:305][767]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.24-23.56.45:082][850]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.24-23.56.56:802][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/Test_level" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.24-23.56.57:007][676]LogSavePackage: Save=190.25ms
+[2018.02.24-23.56.57:007][676]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Test_level_Auto12E9D13204F8C9B1ECFAABCA0AF1A6BF3.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto1.umap'
+[2018.02.24-23.56.57:012][676]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto1.umap
+[2018.02.24-23.56.57:016][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level/Test_level' took 0.247
+[2018.02.24-23.56.57:016][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.247
+[2018.02.24-23.56.57:018][676]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprint/Day_Night/Day_Night_Date_Cycle] ([1] browsable assets)...
+[2018.02.24-23.56.57:018][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Day_Night/Day_Night_Date_Cycle]
+[2018.02.24-23.56.57:169][676]LogSavePackage: Save=136.72ms
+[2018.02.24-23.56.57:169][676]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Day_Night_Date_Cycle_Auto15B6D3E2D49150CD8DA7043844947F19B.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/Day_Night/Day_Night_Date_Cycle_Auto1.uasset'
+[2018.02.24-23.56.57:170][676]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/Day_Night/Day_Night_Date_Cycle_Auto1.uasset
+[2018.02.24-23.56.57:171][676]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/GameMaster/GameMaster] ([1] browsable assets)...
+[2018.02.24-23.56.57:185][676]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/GameMaster/GameMaster.GameMaster]
+[2018.02.24-23.56.57:185][676]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/GameMaster/GameMaster]
+[2018.02.24-23.56.57:336][676]LogSavePackage: Save=136.76ms
+[2018.02.24-23.56.57:336][676]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMaster_Auto19A7055644535D4DA61FB9496BECEB5F9.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/GameMaster/GameMaster_Auto1.uasset'
+[2018.02.24-23.56.57:337][676]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/GameMaster/GameMaster_Auto1.uasset
+[2018.02.24-23.56.57:337][676]LogFileHelpers: Auto-saving content packages took 0.321
+[2018.02.25-00.01.35:216][712]BlueprintLog: New page: Compile Village
+[2018.02.25-00.04.27:891][824]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.04.27:916][824]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.04.27:917][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-00.04.27:917][824]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:04:27 AM)
+[2018.02.25-00.04.27:917][824]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.04.27:922][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004982s)
+[2018.02.25-00.04.27:923][824]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.04.27:924][824]LogPlayLevel: PIE: World Init took: (0.001795s)
+[2018.02.25-00.04.27:924][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007368s)
+[2018.02.25-00.04.27:955][824]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.04.27:970][824]LogInit: FAudioDevice initialized.
+[2018.02.25-00.04.28:059][824]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.04.28:061][824]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.04.28
+[2018.02.25-00.04.28:062][824]LogWorld: Bringing up level for play took: 0.002077
+[2018.02.25-00.04.28:072][824]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level -0.004
+[2018.02.25-00.04.28:073][824]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.05.13:517][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.05.13:586][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.07.43:696][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/Test_level" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.02.25-00.07.43:901][779]LogSavePackage: Save=190.94ms
+[2018.02.25-00.07.43:901][779]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Test_level_Auto24AD062A14ABDA055DED75AAA5D9CB27A.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto2.umap'
+[2018.02.25-00.07.43:904][779]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/level/Test_level_Auto2.umap
+[2018.02.25-00.07.43:905][779]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/level/Test_level' took 0.246
+[2018.02.25-00.07.43:905][779]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.246
+[2018.02.25-00.07.43:907][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/GameMaster/GameMaster] ([1] browsable assets)...
+[2018.02.25-00.07.43:943][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/GameMaster/GameMaster.GameMaster]
+[2018.02.25-00.07.43:944][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/GameMaster/GameMaster]
+[2018.02.25-00.07.44:100][779]LogSavePackage: Save=144.46ms
+[2018.02.25-00.07.44:100][779]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMaster_Auto2433DEB9A47B03CE9DB30EC951558E2CC.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/GameMaster/GameMaster_Auto2.uasset'
+[2018.02.25-00.07.44:103][779]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/GameMaster/GameMaster_Auto2.uasset
+[2018.02.25-00.07.44:104][779]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprint/Village/Village] ([1] browsable assets)...
+[2018.02.25-00.07.44:119][779]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprint/Village/Village.Village]
+[2018.02.25-00.07.44:119][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprint/Village/Village]
+[2018.02.25-00.07.44:119][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Village/Village" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/Village/Village_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.02.25-00.07.44:157][779]LogSavePackage: Save=26.60ms
+[2018.02.25-00.07.44:157][779]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Village_Auto26DEA66624412824CDDE63A8176DBA8C9.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/Village/Village_Auto2.uasset'
+[2018.02.25-00.07.44:159][779]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Autosaves/Game/Blueprint/Village/Village_Auto2.uasset
+[2018.02.25-00.07.44:159][779]LogFileHelpers: Auto-saving content packages took 0.253
+[2018.02.25-00.09.20:374][557]BlueprintLog: New page: Compile Base_UI
+[2018.02.25-00.09.29:332][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI_C' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:332][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:SetVisibilityForTable.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:SetVisibilityForTable.K2Node_FunctionResult_1' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:SetVisibilityOfActionOnBatiment.K2Node_FunctionResult_2' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.Player_UI:SetVisibilityOfActionOnBatiment.K2Node_FunctionEntry_1' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:333][215]LogMetaData: Removing '/Game/Blueprint/GameMaster/Player_UI.SKEL_Player_UI_C' ref from Metadata '/Game/Blueprint/GameMaster/Base_UI.PackageMetaData'
+[2018.02.25-00.09.29:358][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/Player_UI" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/Player_UI.uasset" SILENT=true
+[2018.02.25-00.09.29:408][215]LogSavePackage: Save=45.76ms
+[2018.02.25-00.09.29:408][215]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Player_UI15BC1967450FC6C76512238E16112675.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/Player_UI.uasset'
+[2018.02.25-00.09.29:416][215]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/Player_UI.uasset
+[2018.02.25-00.09.29:700][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/GameMaster" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset" SILENT=true
+[2018.02.25-00.09.29:853][215]LogSavePackage: Save=148.17ms
+[2018.02.25-00.09.29:853][215]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMaster576648BB411ADA0B83F92D86B7F989D1.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset'
+[2018.02.25-00.09.29:864][215]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI_C' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.SKEL_Player_UI_C' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:SetVisibilityForTable.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:SetVisibilityForTable.K2Node_FunctionResult_1' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:SetVisibilityOfActionOnBatiment.K2Node_FunctionEntry_1' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI:SetVisibilityOfActionOnBatiment.K2Node_FunctionResult_2' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI_C:TextBlock_150' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.Player_UI_C:ExecuteUbergraph_Player_UI' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.SKEL_Player_UI_C:BndEvt__Button_127_K2Node_ComponentBoundEvent_4_OnButtonPressedEvent__DelegateSignature' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:739][617]LogMetaData: Removing '/Game/Blueprint/GameMaster/UI/Player_UI.SKEL_Player_UI_C:TextBlock_150' ref from Metadata '/Game/Blueprint/GameMaster/Player_UI.PackageMetaData'
+[2018.02.25-00.09.34:763][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/UI/Player_UI" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Player_UI.uasset" SILENT=true
+[2018.02.25-00.09.34:809][617]LogSavePackage: Save=43.46ms
+[2018.02.25-00.09.34:809][617]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Player_UID634A436472D68A84AD5A19E61D84532.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Player_UI.uasset'
+[2018.02.25-00.09.34:815][617]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Player_UI.uasset
+[2018.02.25-00.09.35:018][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/GameMaster" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset" SILENT=true
+[2018.02.25-00.09.35:158][617]LogSavePackage: Save=134.41ms
+[2018.02.25-00.09.35:158][617]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMaster8393151040D9E0AC58F9DFBA68480B4F.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset'
+[2018.02.25-00.09.35:164][617]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset
+[2018.02.25-00.10.07:367][ 31]BlueprintLog: New page: Compile Village_UI
+[2018.02.25-00.10.33:201][886]BlueprintLog: New page: Compile Village_UI
+[2018.02.25-00.11.10:593][403]BlueprintLog: New page: Compile GameMaster
+[2018.02.25-00.11.45:594][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.11.45:626][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.11.45:626][ 72]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.25-00.11.45:646][ 72]LogPlayLevel: [PlayLevel] Compiling Day_Night_Date_Cycle before play...
+[2018.02.25-00.11.45:994][ 72]LogPlayLevel: [PlayLevel] Compiling GameMaster before play...
+[2018.02.25-00.11.46:355][ 72]LogPlayLevel: [PlayLevel] Compiling Village before play...
+[2018.02.25-00.11.46:793][ 72]LogPlayLevel: PlayLevel: Blueprint regeneration took 1167 ms (3 blueprints)
+[2018.02.25-00.11.46:794][ 72]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:11:46 AM)
+[2018.02.25-00.11.46:794][ 72]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.11.46:799][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004378s)
+[2018.02.25-00.11.46:799][ 72]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.11.46:799][ 72]LogPlayLevel: PIE: World Init took: (0.000654s)
+[2018.02.25-00.11.46:800][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.005388s)
+[2018.02.25-00.11.46:824][ 72]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.11.46:834][ 72]LogInit: FAudioDevice initialized.
+[2018.02.25-00.11.46:904][ 72]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.11.46:905][ 72]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.11.46
+[2018.02.25-00.11.46:906][ 72]LogWorld: Bringing up level for play took: 0.001113
+[2018.02.25-00.11.46:909][ 72]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.832
+[2018.02.25-00.11.46:909][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.11.48:416][219]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.11.48:469][219]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.12.53:173][643]BlueprintLog: New page: Compile Village_UI
+[2018.02.25-00.12.54:081][744]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.12.54:120][744]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.12.54:120][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-00.12.54:121][744]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:12:54 AM)
+[2018.02.25-00.12.54:121][744]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.12.54:124][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003521s)
+[2018.02.25-00.12.54:125][744]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.12.54:125][744]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.02.25-00.12.54:125][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.004675s)
+[2018.02.25-00.12.54:151][744]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.12.54:160][744]LogInit: FAudioDevice initialized.
+[2018.02.25-00.12.54:228][744]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.12.54:230][744]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.12.54
+[2018.02.25-00.12.54:230][744]LogWorld: Bringing up level for play took: 0.001168
+[2018.02.25-00.12.54:233][744]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.157
+[2018.02.25-00.12.54:234][744]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.12.57:864][173]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:873][174]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:881][175]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:889][176]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:897][177]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:906][178]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:914][179]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:923][180]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:931][181]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:939][182]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:947][183]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:956][184]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:964][185]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:973][186]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:981][187]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:989][188]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.57:998][189]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:006][190]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:014][191]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:023][192]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:031][193]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:039][194]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:048][195]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:057][196]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:064][197]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:072][198]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:081][199]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:090][200]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:098][201]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:107][202]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:115][203]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:123][204]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:132][205]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:140][206]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:148][207]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:157][208]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:165][209]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:174][210]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:182][211]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:190][212]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:199][213]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:207][214]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:215][215]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:224][216]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:232][217]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:240][218]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:249][219]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:257][220]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:265][221]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:274][222]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:282][223]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:290][224]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:298][225]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:307][226]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:315][227]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:324][228]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:332][229]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:340][230]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:348][231]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:357][232]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:365][233]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:373][234]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:382][235]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:390][236]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:398][237]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:407][238]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:415][239]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:424][240]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:433][241]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:441][242]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:449][243]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:457][244]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:466][245]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:474][246]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:482][247]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:491][248]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:499][249]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:507][250]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:516][251]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:524][252]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:533][253]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:541][254]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:549][255]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:557][256]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:566][257]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:574][258]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:582][259]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:591][260]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:599][261]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:607][262]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:616][263]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:624][264]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:632][265]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:641][266]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:649][267]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:657][268]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:666][269]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:674][270]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:683][271]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:691][272]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:699][273]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:708][274]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:716][275]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:725][276]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:733][277]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:742][278]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:750][279]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:758][280]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:766][281]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:774][282]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:783][283]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:791][284]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:799][285]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:808][286]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:816][287]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:824][288]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:833][289]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:841][290]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:849][291]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:858][292]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:866][293]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:874][294]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:883][295]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:891][296]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:899][297]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:907][298]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:916][299]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:929][300]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:937][301]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:945][302]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:953][303]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:962][304]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:970][305]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:978][306]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:987][307]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.58:996][308]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:004][309]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:012][310]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:020][311]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:029][312]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:037][313]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:046][314]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:054][315]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:062][316]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:070][317]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:079][318]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:087][319]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:096][320]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:104][321]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:112][322]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:121][323]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:129][324]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:137][325]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:146][326]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:154][327]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:162][328]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:170][329]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:179][330]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:187][331]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:196][332]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:204][333]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:212][334]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:221][335]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:229][336]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:237][337]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:246][338]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:254][339]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:262][340]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:271][341]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:279][342]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:287][343]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:296][344]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:304][345]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:312][346]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:321][347]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:329][348]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:337][349]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:346][350]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:354][351]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:363][352]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:370][353]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:379][354]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:388][355]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:396][356]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:404][357]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:412][358]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:421][359]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:429][360]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:437][361]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:446][362]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:454][363]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:462][364]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:470][365]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:479][366]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:487][367]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:496][368]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:504][369]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:513][370]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:521][371]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:529][372]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:538][373]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:546][374]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:554][375]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:563][376]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:571][377]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:579][378]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:588][379]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:596][380]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:604][381]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:612][382]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:621][383]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:629][384]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:637][385]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:646][386]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:654][387]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:663][388]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:671][389]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:679][390]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:687][391]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:696][392]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:704][393]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:712][394]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:721][395]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:729][396]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:737][397]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:746][398]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:754][399]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:763][400]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:771][401]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:779][402]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:787][403]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:796][404]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:804][405]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.12.59:812][406]PIE: Warning: The widget 'Village_UI_C' was already added to the screen.
+[2018.02.25-00.13.01:163][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.13.01:213][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.14.47:606][361]BlueprintLog: New page: Compile GameMaster
+[2018.02.25-00.15.15:836][ 29]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:838][ 29]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:840][ 29]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:858][ 30]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:859][ 30]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:871][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:874][ 31]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:886][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:888][ 32]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:896][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:900][ 33]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:908][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:910][ 34]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:921][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:924][ 35]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:936][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:938][ 36]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:948][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:951][ 37]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:959][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:963][ 38]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:974][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:977][ 39]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:988][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.15:990][ 40]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:001][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:003][ 41]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:011][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:014][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:017][ 42]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:026][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:029][ 43]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:039][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:041][ 44]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:053][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:055][ 45]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:067][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:068][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:071][ 46]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:080][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:084][ 47]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:092][ 48]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:104][ 49]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:106][ 49]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:119][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:121][ 50]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:130][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:133][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:135][ 51]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:143][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:146][ 52]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:157][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:159][ 53]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:171][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:173][ 54]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:185][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:187][ 55]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:195][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:197][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:200][ 56]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.15.16:208][ 57]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Button_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.25-00.16.08:871][653]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.16.08:915][653]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.16.08:916][653]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.02.25-00.16.08:952][653]LogPlayLevel: [PlayLevel] Compiling Village_UI before play...
+[2018.02.25-00.16.09:140][653]LogPlayLevel: PlayLevel: Blueprint regeneration took 224 ms (1 blueprints)
+[2018.02.25-00.16.09:140][653]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:16:09 AM)
+[2018.02.25-00.16.09:140][653]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.16.09:146][653]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005784s)
+[2018.02.25-00.16.09:147][653]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.16.09:148][653]LogPlayLevel: PIE: World Init took: (0.001649s)
+[2018.02.25-00.16.09:148][653]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.007993s)
+[2018.02.25-00.16.09:180][653]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.16.09:191][653]LogInit: FAudioDevice initialized.
+[2018.02.25-00.16.09:227][653]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.16.09:231][653]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.16.09
+[2018.02.25-00.16.09:231][653]LogWorld: Bringing up level for play took: 0.002579
+[2018.02.25-00.16.09:235][653]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 1.159
+[2018.02.25-00.16.09:235][653]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.19.50:631][459]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.19.50:714][459]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.19.54:200][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Day_Night/Day_Night_Date_Cycle" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Day_Night/Day_Night_Date_Cycle.uasset" SILENT=true
+[2018.02.25-00.19.54:364][632]LogSavePackage: Save=144.89ms
+[2018.02.25-00.19.54:364][632]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Day_Night_Date_Cycle543EAF324C2068E57F24FDB1F73F6F18.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Day_Night/Day_Night_Date_Cycle.uasset'
+[2018.02.25-00.19.54:372][632]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Day_Night/Day_Night_Date_Cycle.uasset
+[2018.02.25-00.19.54:400][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/GameMaster" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset" SILENT=true
+[2018.02.25-00.19.54:602][632]LogSavePackage: Save=188.30ms
+[2018.02.25-00.19.54:602][632]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMasterBAB5161945CA17290A9EEF8779B04196.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset'
+[2018.02.25-00.19.54:606][632]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster.uasset
+[2018.02.25-00.19.54:616][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/UI/Village_UI" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Village_UI.uasset" SILENT=true
+[2018.02.25-00.19.54:645][632]LogSavePackage: Save=26.23ms
+[2018.02.25-00.19.54:645][632]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Village_UI3966E0D34B32D9CA18FB0CA0B80799E5.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Village_UI.uasset'
+[2018.02.25-00.19.54:648][632]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/UI/Village_UI.uasset
+[2018.02.25-00.19.54:667][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/Village/Village" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Village/Village.uasset" SILENT=true
+[2018.02.25-00.19.54:712][632]LogSavePackage: Save=29.72ms
+[2018.02.25-00.19.54:712][632]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Village996C0710470A3CFC8F9C83AC451492C5.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Village/Village.uasset'
+[2018.02.25-00.19.54:714][632]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/Village/Village.uasset
+[2018.02.25-00.19.54:776][632]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/Test_level" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-00.19.54:992][632]LogSavePackage: Save=177.01ms
+[2018.02.25-00.19.54:992][632]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Test_level9C3FE6DA499249C74C5D28A887827D6E.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap'
+[2018.02.25-00.19.54:995][632]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap
+[2018.02.25-00.19.55:039][632]LogFileHelpers: Saving map 'Test_level' took 0.323
+[2018.02.25-00.20.31:071][741]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.20.31:098][741]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.20.31:098][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-00.20.31:098][741]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:20:31 AM)
+[2018.02.25-00.20.31:098][741]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.20.31:105][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006962s)
+[2018.02.25-00.20.31:106][741]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.20.31:107][741]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2018.02.25-00.20.31:107][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.008454s)
+[2018.02.25-00.20.31:141][741]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.20.31:155][741]LogInit: FAudioDevice initialized.
+[2018.02.25-00.20.31:190][741]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.20.31:192][741]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.20.31
+[2018.02.25-00.20.31:193][741]LogWorld: Bringing up level for play took: 0.001834
+[2018.02.25-00.20.31:197][741]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level -0.879
+[2018.02.25-00.20.31:197][741]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.20.57:456][166]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.20.57:501][166]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.21.08:709][159]LogClass: Warning: In asset 'None', there is an enum property of type 'LanguageOfGame' with an invalid value of ''
+[2018.02.25-00.21.10:398][359]BlueprintLog: New page: Compile GameMaster_Gamemode
+[2018.02.25-00.21.12:429][558]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.25-00.21.12:456][558]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.21.12:457][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.25-00.21.12:457][558]PIE: New page: PIE session: Test_level (Feb 25, 2018, 2:21:12 AM)
+[2018.02.25-00.21.12:457][558]LogPlayLevel: Creating play world package: /Game/level/UEDPIE_0_Test_level
+[2018.02.25-00.21.12:461][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003966s)
+[2018.02.25-00.21.12:462][558]LogAIModule: Creating AISystem for world Test_level
+[2018.02.25-00.21.12:462][558]LogPlayLevel: PIE: World Init took: (0.001359s)
+[2018.02.25-00.21.12:463][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/level/Test_level.Test_level to /Game/level/UEDPIE_0_Test_level.Test_level (0.005707s)
+[2018.02.25-00.21.12:495][558]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.25-00.21.12:508][558]LogInit: FAudioDevice initialized.
+[2018.02.25-00.21.12:579][558]LogLoad: Game class is 'GameMaster_Gamemode_C'
+[2018.02.25-00.21.12:581][558]LogWorld: Bringing World /Game/level/UEDPIE_0_Test_level.Test_level up for play (max tick rate 0) at 2018.02.25-01.21.12
+[2018.02.25-00.21.12:582][558]LogWorld: Bringing up level for play took: 0.002390
+[2018.02.25-00.21.12:589][558]PIE: Play in editor start time for /Game/level/UEDPIE_0_Test_level 0.512
+[2018.02.25-00.21.12:589][558]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.37.06:990][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/GameMaster/GameMaster_Gamemode" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster_Gamemode.uasset" SILENT=true
+[2018.02.25-00.37.07:017][662]LogSavePackage: Save=11.07ms
+[2018.02.25-00.37.07:017][662]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/GameMaster_GamemodeE8348BA34FCD11A68532B990A6BE6584.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster_Gamemode.uasset'
+[2018.02.25-00.37.07:019][662]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Blueprint/GameMaster/GameMaster_Gamemode.uasset
+[2018.02.25-00.37.07:079][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/level/Test_level" FILE="C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.02.25-00.37.07:258][662]LogSavePackage: Save=144.89ms
+[2018.02.25-00.37.07:258][662]LogSavePackage: Moving 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Test_levelDB3773D44FB2181FD350148D6A1F5038.tmp' to 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap'
+[2018.02.25-00.37.07:263][662]LogSavePackage: Display: Finished SavePackage C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/level/Test_level.umap
+[2018.02.25-00.37.07:296][662]LogFileHelpers: Saving map 'Test_level' took 0.276
+[2018.02.25-00.37.32:438][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.02.25-00.37.33:449][  0]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.37.33:510][  0]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/level/Test_level.Test_level:PersistentLevel' has LevelScriptBlueprint '/Game/level/Test_level.Test_level:PersistentLevel.Test_level' with GeneratedClass '/Game/level/Test_level.Test_level_C' with ClassGeneratedBy '/Game/level/Test_level.Test_level:PersistentLevel.Test_level'
+[2018.02.25-00.37.35:223][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.25-00.37.35:301][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.25-00.37.35:364][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.25-00.37.35:487][150]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.02.25-00.37.35:548][150]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.25-00.37.35:944][151]Cmd: QUIT_EDITOR
+[2018.02.25-00.37.36:384][151]LogExit: Preparing to exit.
+[2018.02.25-00.37.37:544][151]LogExit: Editor shut down
+[2018.02.25-00.37.37:568][151]LogExit: Transaction tracking system shut down
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.02.25-00.37.37:725][151]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.02.25-00.37.37:866][151]LogExit: Object subsystem successfully closed.
+[2018.02.25-00.37.37:887][151]LogD3D11RHI: Shutdown
+[2018.02.25-00.37.37:887][151]LogD3D11RHI: CleanupD3DDevice
+[2018.02.25-00.37.37:893][151]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module SequencerWidgets (556)
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (550)
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module SceneOutliner (548)
+[2018.02.25-00.37.37:901][151]LogModuleManager: Shutting down and abandoning module AddContentDialog (546)
+[2018.02.25-00.37.37:901][151]LogDirectoryWatcher: A directory notification for 'E:/Version d'UE/UE_4.18/FeaturePacks/' was aborted.
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module WidgetCarousel (545)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module EditorWidgets (542)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module CollectionManager (540)
+[2018.02.25-00.37.37:910][151]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Collections/' was aborted.
+[2018.02.25-00.37.37:910][151]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Content/Developers/Alexa/Collections/' was aborted.
+[2018.02.25-00.37.37:910][151]LogDirectoryWatcher: A directory notification for 'C:/Users/Alexa/Documents/Unreal Projects/P_3/Saved/Collections/' was aborted.
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (538)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.02.25-00.37.37:910][151]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.02.25-00.37.37:911][151]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.02.25-00.37.38:172][151]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.02.25-00.37.38:173][151]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.02.25-00.37.38:236][151]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.02.25-00.37.38:237][151]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.02.25-00.37.38:237][151]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.02.25-00.37.38:237][151]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.02.25-00.37.38:237][151]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.02.25-00.37.38:249][151]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.02.25-00.37.38:251][151]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.02.25-00.37.38:252][151]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.02.25-00.37.38:363][151]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.02.25-00.37.38:364][151]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.02.25-00.37.38:365][151]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.02.25-00.37.38:467][151]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.02.25-00.37.38:567][151]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.02.25-00.37.38:569][151]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.02.25-00.37.38:569][151]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.02.25-00.37.38:569][151]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.02.25-00.37.38:569][151]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.02.25-00.37.38:571][151]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.02.25-00.37.38:578][151]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.02.25-00.37.38:581][151]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.02.25-00.37.38:587][151]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.02.25-00.37.38:674][151]LogDerivedDataCache: Shutdown
+[2018.02.25-00.37.38:674][151]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.02.25-00.37.38:674][151]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.02.25-00.37.38:675][151]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.02.25-00.37.38:676][151]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.02.25-00.37.38:676][151]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.02.25-00.37.38:676][151]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB553B2FB-42FF-91FB-0947-AFB18947522C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=b2a576474cf1dc2102f65f8977bec37f%7Cdfc95f7d102c499b939baf932041eb79%7C45b1e2f8-92e9-4c7f-88f7-8a5cd89dd5b3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.25-00.37.38:676][151]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB553B2FB-42FF-91FB-0947-AFB18947522C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=b2a576474cf1dc2102f65f8977bec37f%7Cdfc95f7d102c499b939baf932041eb79%7C45b1e2f8-92e9-4c7f-88f7-8a5cd89dd5b3&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.02.25-00.37.38:683][151]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.02.25-00.37.38:684][151]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.02.25-00.37.38:684][151]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.02.25-00.37.38:685][151]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.02.25-00.37.38:685][151]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.02.25-00.37.38:685][151]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.02.25-00.37.38:685][151]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.02.25-00.37.38:685][151]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.02.25-00.37.38:690][151]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.02.25-00.37.38:691][151]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.02.25-00.37.38:692][151]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.02.25-00.37.38:695][151]LogExit: Exiting.
+[2018.02.25-00.37.38:714][151]Log file closed, 02/25/18 01:37:38
